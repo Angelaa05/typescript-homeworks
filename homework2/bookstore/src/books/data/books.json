@@ -1,0 +1,65 @@
+[
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "price": 18,
+    "stock": 180,
+    "id": "c3d4e5f6-g789-0123-hj45-ijkl67890123"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "price": 22,
+    "stock": 40,
+    "id": "d4e5f6g7-h890-1234-jk56-ijkl78901234"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "price": 14,
+    "stock": 60,
+    "id": "e5f6g7h8-i901-2345-kl67-ijkl89012345"
+  },
+  {
+    "title": "Macbeth",
+    "author": "William Shakespeare",
+    "price": 16,
+    "stock": 45,
+    "id": "f6g7h8i9-j012-3456-mn78-ijkl90123456"
+  },
+  {
+    "title": "The Lightning Thief",
+    "author": "Rick Riordan",
+    "price": 46,
+    "stock": 55,
+    "id": "g7h8i9j0-k123-4567-no89-ijkl01234567"
+  },
+  {
+    "title": "Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "price": 25,
+    "stock": 35,
+    "id": "h8i9j0k1-l234-5678-op90-ijkl12345678"
+  },
+  {
+    "title": "The Republic",
+    "author": " Plato",
+    "price": 18,
+    "stock": 70,
+    "id": "i9j0k1l2-m345-6789-pq01-ijkl23456789"
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "price": 30,
+    "stock": 25,
+    "id": "j0k1l2m3-n456-7890-qr12-ijkl34567890"
+  },
+  {
+    "id": "2c8636a5-be50-4c9a-94f1-5d3b8821c7bd",
+    "title": "I’m Glad My Mom Died",
+    "author": "Jennette McCurdy",
+    "stock": 40,
+    "price": 120
+  }
+]
